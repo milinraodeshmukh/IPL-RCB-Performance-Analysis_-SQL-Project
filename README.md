@@ -1,4 +1,6 @@
 # 🔴 RCB – IPL Data Analysis Project  
+## SQL-based Data Driven Analytics Project  
+**Prepared By: Milin Rao Deshmukh**
 
 ## 📌 Project Overview  
 This project analyzes the performance of **Royal Challengers Bangalore (RCB)** across multiple IPL seasons using **SQL**.  
